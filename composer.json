@@ -1,5 +1,5 @@
 {
-    "name": "josephmancuso/laravel-usaepay",
+    "name": "naw103/laravel-usaepay",
     "description": "A PHP library that allows you to connect to USAePay gateway and run transactions with less configurations needed.",
     "keywords": [
         "usaepay",
